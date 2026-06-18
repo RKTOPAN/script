@@ -197,8 +197,8 @@ Rewire.MainColor = Color3.fromRGB(8, 8, 13);
 Rewire.RegisiteryColor = {};
 Rewire.NameRegisitry = {};
 Rewire.IsMosueOverOtherFrame = false;
-Rewire.GlobalLogo = "rbxassetid://120358385035996";
-Rewire.ImageColorMapping = "rbxassetid://4155801252";
+Rewire.GlobalLogo = "rbxassetid://90415001526148";
+Rewire.ImageColorMapping = "rbxassetid://90415001526148";
 
 if getcustomasset then
 	local link = "https://github.com/4lpaca-pin/Rewire/blob/main/assets/%s?raw=true";
