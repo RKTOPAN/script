@@ -3832,7 +3832,7 @@ function Rewire:CreateWindow(Config)
 	Config = Rewire:ProcessParams(Config , {
 		Logo = Rewire.GlobalLogo,
 		Name = "Rewire",
-		Content = "Counter-Strike 2",
+		Content = "ReWire",
 		Size = UDim2.new(0, 640, 0, 480),
 		ConfigFolder = "RewireConfigs",
 		Enable3DRenderer = false,
